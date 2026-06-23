@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hadsawadt\\Downloads\\src\\MyNewGame\\MyNewGame.csproj": {}
+    "c:\\Users\\hadsawadt\\Downloads\\src\\MyNewGame\\MyNewGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hadsawadt\\Downloads\\src\\MyNewGame\\MyNewGame.csproj": {
+    "c:\\Users\\hadsawadt\\Downloads\\src\\MyNewGame\\MyNewGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hadsawadt\\Downloads\\src\\MyNewGame\\MyNewGame.csproj",
+        "projectUniqueName": "c:\\Users\\hadsawadt\\Downloads\\src\\MyNewGame\\MyNewGame.csproj",
         "projectName": "MyNewGame",
-        "projectPath": "C:\\Users\\hadsawadt\\Downloads\\src\\MyNewGame\\MyNewGame.csproj",
+        "projectPath": "c:\\Users\\hadsawadt\\Downloads\\src\\MyNewGame\\MyNewGame.csproj",
         "packagesPath": "C:\\Users\\hadsawadt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hadsawadt\\Downloads\\src\\MyNewGame\\obj\\",
+        "outputPath": "c:\\Users\\hadsawadt\\Downloads\\src\\MyNewGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

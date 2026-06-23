@@ -31,3 +31,4 @@ C:\Users\hadsawadt\Downloads\src\MyNewGame\obj\Debug\net9.0\refint\MyNewGame.dll
 C:\Users\hadsawadt\Downloads\src\MyNewGame\obj\Debug\net9.0\MyNewGame.pdb
 C:\Users\hadsawadt\Downloads\src\MyNewGame\obj\Debug\net9.0\MyNewGame.genruntimeconfig.cache
 C:\Users\hadsawadt\Downloads\src\MyNewGame\obj\Debug\net9.0\ref\MyNewGame.dll
+c:\Users\hadsawadt\Downloads\src\MyNewGame\obj\Debug\net9.0\MyNewGame.sourcelink.json
