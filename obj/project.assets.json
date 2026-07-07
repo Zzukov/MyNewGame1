@@ -295,25 +295,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hatsawatt\\.nuget\\packages\\": {},
+    "C:\\Users\\wintakornc\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hatsawatt\\Downloads\\MyNewGame1\\MyNewGame.csproj",
+      "projectUniqueName": "C:\\Users\\wintakornc\\Downloads\\SelfAssessment\\MyNewGame1\\MyNewGame.csproj",
       "projectName": "MyNewGame",
-      "projectPath": "C:\\Users\\hatsawatt\\Downloads\\MyNewGame1\\MyNewGame.csproj",
-      "packagesPath": "C:\\Users\\hatsawatt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hatsawatt\\Downloads\\MyNewGame1\\obj\\",
+      "projectPath": "C:\\Users\\wintakornc\\Downloads\\SelfAssessment\\MyNewGame1\\MyNewGame.csproj",
+      "packagesPath": "C:\\Users\\wintakornc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\wintakornc\\Downloads\\SelfAssessment\\MyNewGame1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\hatsawatt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\wintakornc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
